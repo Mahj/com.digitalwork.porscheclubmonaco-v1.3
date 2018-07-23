@@ -1,0 +1,8 @@
+{
+  "name": "ionAppFull4Pro",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
