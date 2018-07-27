@@ -43,6 +43,7 @@
     "@ionic/storage": "2.0.1",
     "angularfire2": "^5.0.0-rc.5-next",
     "call-number": "~0.0.2",
+    "caniuse-lite": "^1.0.30000865",
     "card.io.cordova.mobilesdk": "^2.1.0",
     "chart.js": "^2.7.2",
     "com.paypal.cordova.mobilesdk": "^3.5.0",
