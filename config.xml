@@ -124,4 +124,5 @@
         <variable name="URL_SCHEME" value="com.digitalwork.porscheclubmonaco" />
     </plugin>
     <plugin name="call-number" spec="~0.0.2" />
+    <engine name="ios" spec="4.5.5" />
 </widget>
